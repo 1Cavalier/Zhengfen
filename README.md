@@ -7,7 +7,7 @@ Base d'un jeu de cartes Zheng Fen en Java, centrée sur la conception objet : mo
 - Projet réalisé dans le cadre du Master 1 Informatique de l'UVSQ (Université Paris-Saclay)
 - UE : Programmation avancée Java
 - Année universitaire : 2024-2025
-- Travail en équipe de 4 étudiants : Ethan Mache, Théo Joly, Théotime Turmel, Quentin Soumet
+- Travail en équipe de 4 étudiants : Quentin Soumet, Théotime Turmel, Théo Fridj, Richar [NOM À COMPLÉTER]
 
 Le sujet demandait de réaliser le jeu de cartes [Zheng Fen](https://www.pagat.com/climbing/zhengfen.html), un jeu de défausse chinois, jouable dans un terminal par des joueurs humains et des joueurs virtuels. Le travail portait surtout sur les choix de conception orientée objet.
 
@@ -36,6 +36,7 @@ Le sujet demandait de réaliser le jeu de cartes [Zheng Fen](https://www.pagat.c
 zhengfen/
 ├── .mvn/wrapper/                  Configuration du Maven Wrapper
 ├── checkstyle.xml                 Règles de style vérifiées au build
+├── LICENSE                        Licence MIT
 ├── mvnw, mvnw.cmd                 Maven Wrapper (Linux/macOS, Windows)
 ├── pom.xml                        Configuration Maven
 └── src/
@@ -120,10 +121,10 @@ Carte tirée : CINQ de TREFLE
 
 ## Auteurs
 
-Projet d'équipe réalisé par Ethan Mache, Théo Joly, Théotime Turmel et Quentin Soumet.
+Projet d'équipe réalisé par Quentin Soumet, Théotime Turmel, Théo Fridj et Richar [NOM À COMPLÉTER].
 
-Dépôt publié par [À COMPLÉTER : ton nom] - [À COMPLÉTER : lien vers ton profil GitHub]
+Dépôt publié par Quentin Soumet - [À COMPLÉTER : lien vers ton profil GitHub]
 
 ## Licence
 
-[À COMPLÉTER : par exemple MIT, après accord des membres de l'équipe. Voir le fichier LICENSE.]
+Ce projet est distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE).
